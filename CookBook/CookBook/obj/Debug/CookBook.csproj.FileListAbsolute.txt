@@ -1,0 +1,31 @@
+c:\users\qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\bin\Debug\CookBook.exe.config
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\bin\Debug\CookBook.exe
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\bin\Debug\CookBook.pdb
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.Form1.resources
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.Properties.Resources.resources
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.csproj.GenerateResource.Cache
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.exe
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.pdb
+C:\Users\Qyseth\documents\visual studio 2013\Projects\CookBook\CookBook\obj\Debug\CookBook.Form2.resources
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.Form1.resources
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.Form2.resources
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.Properties.Resources.resources
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.csproj.GenerateResource.Cache
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.exe
+D:\visual studio2013\CookBook\CookBook\obj\Debug\CookBook.pdb
+D:\visual studio2013\CookBook\CookBook\bin\Debug\CookBook.exe.config
+D:\visual studio2013\CookBook\CookBook\bin\Debug\CookBook.exe
+D:\visual studio2013\CookBook\CookBook\bin\Debug\CookBook.pdb
+C:\Users\moroz\Desktop\CookBook\CookBook\bin\Debug\CookBook.exe.config
+C:\Users\moroz\Desktop\CookBook\CookBook\bin\Debug\CookBook.exe
+C:\Users\moroz\Desktop\CookBook\CookBook\bin\Debug\CookBook.pdb
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.Form1.resources
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.Form2.resources
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.Properties.Resources.resources
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.csproj.GenerateResource.Cache
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.exe
+C:\Users\moroz\Desktop\CookBook\CookBook\obj\Debug\CookBook.pdb
